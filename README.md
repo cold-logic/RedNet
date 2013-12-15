@@ -1,4 +1,4 @@
 RedNet
 ======
 
-RedNet cable from MinecraftFactory Reloaded
+RedNet Cable from MineFactory Reloade.
