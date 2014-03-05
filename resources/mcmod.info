@@ -1,0 +1,23 @@
+[
+    {
+        "name": "MineFactory Reloaded", 
+        "parent": "", 
+        "url": "http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/", 
+        "logoFile": "", 
+        "updateUrl": "", 
+        "credits": "All the contributors", 
+        "version": "2.7.6B1", 
+        "modid": "MineFactoryReloaded", 
+        "authors": [
+            "PowerCrystals", 
+            "TehKrush", 
+            "AtomicStryker", 
+            "Feanorith", 
+            "skyboy026"
+        ], 
+        "mcversion": "1.7.2", 
+        "screenshots": [], 
+        "dependencies": [], 
+        "description": "Automate everything!"
+    }
+]
